@@ -3,12 +3,10 @@ nii2img
 
 Description
 -----------
-A NIfTI to image slices converter.
-
-Extracts PNG/JPG/BMP image slices in axial/sagittal/coronar place from a
+Extracts PNG/JPG/BMP image slices in axial/sagittal/coronar plane from a
 NIfTI volume.
 
-To view all possible command line options use "./nii2img.py -h".
+To view the possible command line options (and defaults) use `./nii2img.py -h`
 
 License
 -------
